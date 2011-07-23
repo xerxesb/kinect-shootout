@@ -1,0 +1,26 @@
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\KinectHackDay\Shootout\bin\Debug\SkeletalViewer.exe.config
+C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer.exe
+C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer.pdb
+C:\KinectHackDay\Shootout\bin\Debug\SkeletalViewer.exe
+C:\KinectHackDay\Shootout\bin\Debug\SkeletalViewer.pdb
+C:\KinectHackDay\Shootout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\KinectHackDay\Shootout\obj\x86\Debug\MainWindow.baml
+C:\KinectHackDay\Shootout\obj\x86\Debug\MainWindow.g.cs
+C:\KinectHackDay\Shootout\obj\x86\Debug\App.g.cs
+C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer.g.resources
+C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer_Content.g.cs
+C:\KinectHackDay\Shootout\bin\Debug\blackhat_2.png
+C:\KinectHackDay\Shootout\bin\Debug\towncentre.jpg
+C:\KinectHackDay\Shootout\bin\Debug\whitehat_2.png

@@ -1,0 +1,152 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="284" fromTop="3" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6858" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="832" fromTop="17" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="534" fromTop="8" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="283" fromTop="3" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="4221" fromTop="22" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="11048" fromTop="24" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="12140" fromTop="30" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="8082" fromTop="39" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="4960" fromTop="7" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="5210" fromTop="13" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13146" fromTop="39" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="8083" fromTop="35" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="12116" fromTop="12" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="11999" fromTop="1" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="5502" fromTop="7" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13077" fromTop="37" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="9519" fromTop="39" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="9519" fromTop="26" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7361" fromTop="36" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7361" fromTop="34" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7048" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7571" fromTop="22" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="8011" fromTop="23" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7359" fromTop="11" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6364" fromTop="11" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7158" fromTop="12" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6812" fromTop="20" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6707" fromTop="13" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="5833" fromTop="9" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="12777" fromTop="39" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="7023" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="5" />
+      <Item value="totalFrames" priority="0" />
+      <Item value="HandRight" priority="0" />
+      <Item value="joint" priority="2" />
+      <Item value="nui" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="new" priority="2" />
+      <Item value="List`0" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="playerPositions" priority="2" />
+      <Item value="x" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="data" priority="2" />
+      <Item value="Player`0" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="playerSkeleton" priority="4" />
+      <Item value="Player" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="JointTrackingState`0" priority="0" />
+      <Item value="JointID`0" priority="2" />
+      <Item value="player" priority="11" />
+      <Item value="XmlDataProvider`0" priority="2" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="Console`0" priority="4" />
+      <Item value="data1" priority="0" />
+      <Item value="PolyLineSegment`0" priority="0" />
+      <Item value="PolyLineSegment" priority="0" />
+      <Item value="PointToScreen`0" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="points" priority="0" />
+      <Item value="Point`0" priority="0" />
+      <Item value="MouseWheelEvent" priority="0" />
+      <Item value="angle" priority="1" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="leftAngle" priority="2" />
+      <Item value="rightAngle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Joint">
+      <Item value="Position" priority="8" />
+      <Item value="ID" priority="1" />
+      <Item value="TrackingState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Runtime">
+      <Item value="SkeletonEngine" priority="1" />
+      <Item value="SkeletonFrameReady" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="First`1" priority="0" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.SkeletonData">
+      <Item value="TrackingID" priority="1" />
+      <Item value="Joints" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Vector">
+      <Item value="W" priority="0" />
+      <Item value="Y" priority="2" />
+      <Item value="X" priority="3" />
+      <Item value="Z" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Research.Kinect.Nui.JointID">
+      <Item value="HandLeft" priority="2" />
+      <Item value="ElbowRight" priority="0" />
+      <Item value="ElbowLeft" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.JointsCollection">
+      <Item value="Cast`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkeletalViewer.MainWindow+Player">
+      <Item value="LeftHand" priority="0" />
+      <Item value="PlayerId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkeletalViewer.Player">
+      <Item value="PlayerId" priority="1" />
+      <Item value="LeftWrist" priority="2" />
+      <Item value="LeftElbow" priority="1" />
+      <Item value="LeftHand" priority="3" />
+      <Item value="RightHand" priority="0" />
+      <Item value="LeftAngle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
