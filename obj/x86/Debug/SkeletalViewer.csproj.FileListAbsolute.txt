@@ -24,3 +24,7 @@ C:\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer_Content.g.cs
 C:\KinectHackDay\Shootout\bin\Debug\blackhat_2.png
 C:\KinectHackDay\Shootout\bin\Debug\towncentre.jpg
 C:\KinectHackDay\Shootout\bin\Debug\whitehat_2.png
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\SkeletalViewer.exe.config
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\Shootout.exe.config

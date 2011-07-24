@@ -10,7 +10,7 @@ using System;
 using System.Configuration;
 using System.Windows;
 
-namespace SkeletalViewer
+namespace Shootout
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -1,0 +1,15 @@
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\Shootout.exe.config
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\blackhat_2.png
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\towncentre.jpg
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\whitehat_2.png
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\Shootout.exe
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\bin\Debug\Shootout.pdb
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\MainWindow.baml
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\App.g.cs
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\Shootout_Content.g.cs
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\Shootout_MarkupCompile.cache
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\Shootout.g.resources
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\Shootout.exe
+C:\Users\dev2\Desktop\KinectHackDay\Shootout\obj\x86\Debug\Shootout.pdb

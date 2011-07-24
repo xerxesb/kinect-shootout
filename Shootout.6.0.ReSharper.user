@@ -1,0 +1,67 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="1126" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6560" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="17" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="17" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="32" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="13" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="21" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="21" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="693" fromTop="10" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="990" fromTop="14" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml" caret="1126" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="15" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="18" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="0" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="29" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="13726" fromTop="92" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="4063" fromTop="0" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6181" fromTop="24" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6196" fromTop="12" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="2985" fromTop="15" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="3024" fromTop="19" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="2808" fromTop="9" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="14107" fromTop="17" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="4211" fromTop="9" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="4909" fromTop="24" />
+      <File id="35D624F4-9657-4D87-8FD3-6CE4E00CB9DA/f:MainWindow.xaml.cs" caret="6023" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="foreach" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.SkeletonFrameReadyEventArgs">
+      <Item value="SkeletonFrame" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
